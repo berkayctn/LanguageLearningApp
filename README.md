@@ -64,7 +64,8 @@ After completing the training or transitioning to the test section before comple
 ![](Images/Test.PNG)
 
 
-After completing the test, the user can see their test score and progress on the "Lessons" page once again.
+After completing the test, the user can once again view their test score and progress on the "Lessons" page. Additionally, the educational content for the next stage is also accessible, as you can see as well.
+
 
 ![](Images/AfterTest.PNG)
 
