@@ -54,6 +54,9 @@ After clicking on the lesson content, the user will be presented with the follow
 
 
 ![](Images/CourseContent.PNG)
+![](Images/CourseContent2.PNG)
+![](Images/CourseContent3.PNG)
+![](Images/CourseContent4.PNG)
 
 
 After completing the training or transitioning to the test section before completing the training, random questions will be retrieved from the database, with 15 questions being presented each time. To provide some assistance, Turkish explanations have been added to some of the questions. When a question is answered correctly, the chosen option will be displayed in green, and the counter on the left side, which keeps track of the number of correct answers, will be incremented by 1. Also incorrectly answered questions will display the options in red.
