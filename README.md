@@ -53,17 +53,17 @@ To begin the lessons, the user needs to click on the "Show Lesson Content" (Ders
 After clicking on the lesson content, the user will be presented with the following screen. On this page, training content has been prepared for the beginner level. The content has been written both dynamically from the database and statically.
 
 
-[](Images/CourseContent.PNG)
+![](Images/CourseContent.PNG)
 
 
 After completing the training or transitioning to the test section before completing the training, random questions will be retrieved from the database, with 15 questions being presented each time. To provide some assistance, Turkish explanations have been added to some of the questions. When a question is answered correctly, the chosen option will be displayed in green, and the counter on the left side, which keeps track of the number of correct answers, will be incremented by 1. Also incorrectly answered questions will display the options in red.
 
-[](Images/Test.PNG)
+![](Images/Test.PNG)
 
 
 After completing the test, the user can see their test score and progress on the "Lessons" page once again.
 
-[](Images/AfterTest.PNG)
+![](Images/AfterTest.PNG)
 
 
 
