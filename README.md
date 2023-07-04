@@ -5,7 +5,7 @@ This project is a collaborative group project aiming to develop a demo foreign l
 To start the application, follow these steps:
 
 1. Clone the project to your local machine.
-2. Open the "Back-End" project in an IDE of your choice (IntelliJ IDEA and Java 11 were used in this project).
+2. Open the "Back-End" project in an IDE of your choice (IntelliJ IDEA and Java 17 were used in this project).
 3. Use MySQL Workbench to import the data from the "Database" folder in the project.
 4. Open the "Front-End" project in a development environment of your choice (Visual Studio Code was used in this project).
 5. Install `node_modules` for the front-end by running `npm install` command.
