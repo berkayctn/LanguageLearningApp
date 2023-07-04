@@ -1,5 +1,5 @@
 # LanguageLearningApp
-This project is a collaborative group project aiming to develop a demo foreign language learning application. The application will be built using Java Spring on the Back-End, React.js on the Front-End, and MySQL on the database side.
+This project is a collaborative group project aiming to develop a demo foreign language learning application. The application will be built using Java Spring on the back-end, React.js on the front-end, and MySQL on the database side.
 
 ## How to run?
 To start the application, follow these steps:
